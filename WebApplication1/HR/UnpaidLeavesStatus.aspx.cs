@@ -48,7 +48,7 @@ namespace WebApplication1.HR
                     INNER JOIN Employee E ON E.employee_id = L.emp_ID
                     INNER JOIN Unpaid_Leave UL on L.request_ID = UL.request_ID
                     WHERE L.final_approval_status = 'Pending' 
-                      AND EAL.Emp1_ID = @HR_ID // Filter by logged-in HR employee's ID
+                      AND EAL.Emp1_ID = @HR_ID
                 ";
 
                 SqlCommand cd = new SqlCommand(find, conn);
