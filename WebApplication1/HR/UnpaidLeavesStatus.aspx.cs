@@ -20,6 +20,7 @@ namespace WebApplication1.HR
                 ProcessingStatus.Text = "No pending unpaid leave requests.";
                 ProcessingStatus.ForeColor = Color.Orange;
                 ProcessingStatus.Font.Bold = true;
+                BindPendingLeaves();
             }
 
         }
@@ -27,7 +28,7 @@ namespace WebApplication1.HR
         {
 
             int hrID = (int)Session["UserID"];
-            string conStr = ConfigurationManager.ConnectionStrings["DBCS"].ConnectionString;
+            string conStr = ConfigurationManager.ConnectionStrings["OurApp"].ConnectionString;
 
 
             using (SqlConnection conn = new SqlConnection(conStr))
@@ -44,7 +45,7 @@ namespace WebApplication1.HR
                         'Unpaid' AS leave_type
                     FROM Leave L
                     INNER JOIN Employee_Approve_Leave EAL ON L.request_ID = EAL.leave_ID
-                    INNER JOIN Employee E ON E.employee_id = L.emp_ID // Assume L.emp_ID is the employee requesting the leave
+                    INNER JOIN Employee E ON E.employee_id = L.emp_ID
                     INNER JOIN Unpaid_Leave UL on L.request_ID = UL.request_ID
                     WHERE L.final_approval_status = 'Pending' 
                       AND EAL.Emp1_ID = @HR_ID // Filter by logged-in HR employee's ID
@@ -81,7 +82,7 @@ namespace WebApplication1.HR
                 int requestID = Convert.ToInt32(e.CommandArgument);
                 int HRID = (int)Session["UserID"];
 
-                String cStr = ConfigurationManager.ConnectionStrings["HR_System_Connection"].ConnectionString;
+                String cStr = ConfigurationManager.ConnectionStrings["OurApp"].ConnectionString;
 
                 using (SqlConnection conn = new SqlConnection(cStr))
                 {

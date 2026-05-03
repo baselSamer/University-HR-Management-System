@@ -17,6 +17,7 @@ namespace WebApplication1.HR
                 ProcessingStatus.Text = "No pending annual/accidental leave requests.";
                 ProcessingStatus.ForeColor = Color.Orange;
                 ProcessingStatus.Font.Bold = true;
+                BindPendingLeaves();
             }
         }
 
@@ -79,7 +80,7 @@ namespace WebApplication1.HR
                 int requestID = Convert.ToInt32(e.CommandArgument);
                 int HRID = (int)Session["UserID"];
 
-                string conStr = ConfigurationManager.ConnectionStrings["DBCS"].ConnectionString;
+                string conStr = ConfigurationManager.ConnectionStrings["OurApp"].ConnectionString;
 
                 using (SqlConnection conn = new SqlConnection(conStr))
                 {
