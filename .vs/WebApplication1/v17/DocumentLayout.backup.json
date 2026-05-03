@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\webapplication1\\sql_code.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\sql_code.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|c:\\users\\basel\\desktop\\final\\final\\mile\\mile\\webapplication1\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|c:\\users\\basel\\desktop\\final\\final\\mile\\mile\\webapplication1\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|c:\\users\\basel\\desktop\\final\\final\\mile\\mile\\webapplication1\\webapplication1\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|c:\\users\\basel\\desktop\\final\\final\\mile\\mile\\webapplication1\\webapplication1\\hr\\missinghoursdeduction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\hr\\missinghoursdeduction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\webapplication1\\hr\\compensationleavestatus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\hr\\compensationleavestatus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\webapplication1\\hr\\annualandaccidentalleavesstatus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\hr\\annualandaccidentalleavesstatus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Evaluation M3\\Milestone_3_Revised_Scenario\\Scenario.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\webapplication1\\academic_home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\academic_home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\webapplication1\\admin_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\webapplication1\\admin_home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin_home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\webapplication1\\academic_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\academic_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|c:\\users\\basel\\desktop\\final\\final\\mile\\mile\\webapplication1\\webapplication1\\sql_code.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F5E55594-5462-4FCB-85D9-A56C8E7C4360}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\sql_code.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Login.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Login.aspx.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:04:48.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Login.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:04:09.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Login.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Login.aspx",
+              "RelativeToolTip": "WebApplication1\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-07T18:03:56.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissingHoursDeduction.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\HR\\MissingHoursDeduction.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\HR\\MissingHoursDeduction.aspx.cs",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\HR\\MissingHoursDeduction.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\HR\\MissingHoursDeduction.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T08:10:17.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnnualAndAccidentalLeavesStatus.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\HR\\AnnualAndAccidentalLeavesStatus.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\HR\\AnnualAndAccidentalLeavesStatus.aspx.cs",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\HR\\AnnualAndAccidentalLeavesStatus.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\HR\\AnnualAndAccidentalLeavesStatus.aspx.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T08:06:21.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sql_code.sql ",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\sql_code.sql",
+              "RelativeDocumentMoniker": "WebApplication1\\sql_code.sql",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\sql_code.sql",
+              "RelativeToolTip": "WebApplication1\\sql_code.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-05T19:42:14.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompensationLeaveStatus.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\HR\\CompensationLeaveStatus.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\HR\\CompensationLeaveStatus.aspx.cs",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\HR\\CompensationLeaveStatus.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\HR\\CompensationLeaveStatus.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T08:07:44.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin_home.aspx",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Admin_home.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin_home.aspx",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Admin_home.aspx",
+              "RelativeToolTip": "WebApplication1\\Admin_home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-06T07:36:37.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Scenario.sql",
+              "DocumentMoniker": "D:\\Evaluation M3\\Milestone_3_Revised_Scenario\\Scenario.sql",
+              "ToolTip": "D:\\Evaluation M3\\Milestone_3_Revised_Scenario\\Scenario.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-06T07:26:40.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin_home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Admin_home.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin_home.aspx.cs",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Admin_home.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Admin_home.aspx.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:41:00.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Academic_home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Academic_home.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Academic_home.aspx.cs",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Academic_home.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Academic_home.aspx.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAuwHIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:34:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Academic_home.aspx",
+              "DocumentMoniker": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Academic_home.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Academic_home.aspx",
+              "ToolTip": "C:\\Users\\Basel\\Desktop\\final\\final\\mile\\mile\\WebApplication1\\WebApplication1\\Academic_home.aspx",
+              "RelativeToolTip": "WebApplication1\\Academic_home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-05T19:34:56.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
